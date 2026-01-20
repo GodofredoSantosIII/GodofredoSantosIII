@@ -3,8 +3,9 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Web+%26+Mobile+Application+Developer;Student+Developer+focused+on+Systems+%26+UI+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7C3AED,EC4899&center=true&vCenter=true&width=700&lines=💻+Web+%26+Mobile+Application+Developer;🎓+Student+Developer+focused+on+Systems+%26+UI+Design" />
 </p>
+
 
 
 ### 🛠 Tech Stack
