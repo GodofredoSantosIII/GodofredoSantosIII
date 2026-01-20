@@ -2,11 +2,8 @@
 
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7C3AED,EC4899&center=true&vCenter=true&width=700&lines=💻+Web+%26+Mobile+Application+Developer;🎓+Student+Developer+focused+on+Systems+%26+UI+Design" />
-</p>
 
-
+![typewriter](https://github.com/user-attachments/assets/538a85d1-1fe1-40bb-aacd-33bb361ab613)
 
 ### 🛠 Tech Stack
 
