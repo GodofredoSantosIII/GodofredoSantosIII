@@ -1,7 +1,17 @@
-## 👋 Hi, I'm **Godofredo Santos III**
+<img width="851" height="315" alt="Cover" src="https://github.com/user-attachments/assets/7354a74a-0832-4c6c-8f3e-3a0c162903ba" />
 
-💻 **Web & Mobile Application Developer**  
-🎓 Student Developer focused on **Systems & UI Design**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+  type=transparent&
+  text=Web%20%26%20Mobile%20Application%20Developer&
+  fontSize=28&
+  fontColor=gradient" />
+</p>
+
+<p align="center">
+  🎓 Student Developer focused on <b>Systems & UI Design</b>
+</p>
 
 ---
 
