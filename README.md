@@ -1,20 +1,7 @@
 <img width="851" height="315" alt="Cover" src="https://github.com/user-attachments/assets/7354a74a-0832-4c6c-8f3e-3a0c162903ba" />
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  weight=600&
-  size=22&
-  duration=3000&
-  pause=800&
-  color=7C3AED&
-  center=true&
-  vCenter=true&
-  width=500&
-  lines=Web+%26+Mobile+Application+Developer;
-  Student+Developer+%7C+Systems+%26+UI+Design" />
-</p>
+
 
 ---
 
@@ -53,3 +40,18 @@
 🎨 UI/UX Design · 🔐 Role-Based Systems · ⚡ Real-Time Applications  
 
 > _Always learning. Always building._
+>
+> <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  weight=600&
+  size=22&
+  duration=3000&
+  pause=800&
+  color=7C3AED&
+  center=true&
+  vCenter=true&
+  width=500&
+  lines=Web+%26+Mobile+Application+Developer;
+  Student+Developer+%7C+Systems+%26+UI+Design" />
+</p>
