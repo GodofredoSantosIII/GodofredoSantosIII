@@ -9,7 +9,6 @@
 
 <br>
 <div align="center">
-### 🛠 Tech Stack
 
 #### ⚡ Frameworks & Platforms
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
