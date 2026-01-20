@@ -1,7 +1,12 @@
 <div align="center">
 
+<!-- Cover Image -->
 <img width="851" height="315" alt="Cover" src="https://github.com/user-attachments/assets/7354a74a-0832-4c6c-8f3e-3a0c162903ba" />
+
+<!-- GIF under the cover -->
+<br>
 ![typewriter](https://github.com/user-attachments/assets/538a85d1-1fe1-40bb-aacd-33bb361ab613)
+
 ### 🛠 Tech Stack
 
 #### ⚡ Frameworks & Platforms
@@ -39,5 +44,3 @@
 > _Always learning. Always building._
 
 </div>
-
-
