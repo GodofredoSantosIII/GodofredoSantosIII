@@ -2,15 +2,18 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-  type=transparent&
-  text=Web%20%26%20Mobile%20Application%20Developer&
-  fontSize=28&
-  fontColor=gradient" />
-</p>
-
-<p align="center">
-  🎓 Student Developer focused on <b>Systems & UI Design</b>
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  weight=600&
+  size=22&
+  duration=3000&
+  pause=800&
+  color=7C3AED&
+  center=true&
+  vCenter=true&
+  width=500&
+  lines=Web+%26+Mobile+Application+Developer;
+  Student+Developer+%7C+Systems+%26+UI+Design" />
 </p>
 
 ---
