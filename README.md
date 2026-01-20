@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Godofredo Santos III
 
-<!--
-**GodofredoSantosIII/GodofredoSantosIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Web & Mobile Applications  
+🎓 Student Developer passionate about building application systems  
 
-Here are some ideas to get you started:
+🛠️ Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Platforms**  
+- Angular  
+- Ionic  
+- Node.js  
+
+**Programming Languages**  
+- Java  
+- C / C++  
+- GDScript  
+- HTML  
+- CSS  
+- PHP  
+- JavaScript  
+- TypeScript  
+- SQL  
+
+**Databases**  
+- MongoDB  
+- Firebase  
+
+**Tools & Technologies**  
+- GitHub  
+- Visual Studio Code  
+- Android Studio  
+- Godot Engine  
+- Canva  
+- Figma  
+
+📌 Interests  
+- UI/UX design  
+- Role-based systems  
+- Real-time applications  
+
+✨ Always learning, always building.
