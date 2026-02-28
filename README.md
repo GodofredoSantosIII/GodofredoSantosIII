@@ -9,10 +9,6 @@
 
 <br>
 
-#### ⚡ Frameworks & Platforms
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-
 #### 💡 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
