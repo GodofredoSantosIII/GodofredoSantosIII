@@ -34,7 +34,7 @@
 ---
 
 ### 🎯 Interests
-🎨 UI/UX Design · 🔐 Role-Based Systems · ⚡ Real-Time Applications  
+🎨 UI/UX Design  
 
 > _Always learning. Always building._
 
