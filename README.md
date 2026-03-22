@@ -34,7 +34,7 @@
 ---
 
 ### 🎯 Interests
-🎨 UI/UX Design  
+🎨 UI/UX Design • 🌐 Web Development 
 
 > _Always learning. Always building._
 
